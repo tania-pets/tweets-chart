@@ -2,6 +2,7 @@
 
     Requests references for given query from twitter API and shows results in bar and line charts.
     Uses amcharts for visualization.
+    Demo : http://exasa.gr/various/tweet-graph
 
 
 ## Build & development
